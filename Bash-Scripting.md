@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Bash scripting script usually have .sh extension by giving extension to the file while programming and after programming the code will be represented with colors to understand the script .Its a good practice to use shebang \[#!\] along with the file path of the bash at the start of the script.
 
